@@ -1,6 +1,6 @@
 # Analytics_Engine
-Installation steps:
--Install python 3 and pip.
+### Installation steps:\n
+-Install python 3 and pip.\n
 -Install python-firebase using **pip install python-firebase**
--Install folium using **pip install folium**
--Run the GUI using **python GUI.py**
+-Install folium using **pip install folium**\n
+-Run the GUI using **python GUI.py**\n
