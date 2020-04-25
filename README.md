@@ -6,4 +6,7 @@
 
 -Install folium using **pip install folium**
 
+-Paste the credentials JSON on this folder.
+
 -Run the GUI using **python GUI.py**
+
