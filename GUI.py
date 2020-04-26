@@ -23,7 +23,7 @@ window = Tk()
 
 window.title("Welcome to LikeGeeks app")
 
-window.geometry('100x500')
+window.geometry('600x700')
 
 btn = Button(window, text="Average UV radiation per day of the week",command=clicked1,
           height = 7,
