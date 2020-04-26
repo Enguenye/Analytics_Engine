@@ -10,7 +10,8 @@
 
 -Run the GUI using **python GUI.py**
 
-Business questions solved by the analytics engine:
+### Business questions solved by the analytics engine:
+
 -How are the UV radiation metrics per day of the week?
 
 -How are the Air pollution metrics per day of the week?
