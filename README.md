@@ -6,6 +6,8 @@
 
 -Install folium using **pip install folium**
 
+-Install shapely using **pip install shapely**
+
 -Paste the credentials JSON on this folder.
 
 -Run the GUI using **python GUI.py**
