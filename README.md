@@ -6,18 +6,6 @@
 
 -Install folium using **pip install folium**
 
--Install geopandas using **pip install wheel
-pip install pipwin
-pipwin install numpy
-pipwin install pandas
-pipwin install shapely
-pipwin install gdal
-pipwin install fiona
-pipwin install pyproj
-pipwin install six
-pipwin install rtree
-pipwin install geopandas**
-
 -Paste the credentials JSON on this folder.
 
 -Run the GUI using **python GUI.py**
